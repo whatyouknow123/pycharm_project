@@ -1,0 +1,2 @@
+# pycharm_project
+这个repository包含了我研一阶段写过的python项目的程序
